@@ -9,7 +9,6 @@ class LibraryList extends Component {
         return <ListItem library={library}/>
     }
 
-
     render(){
         return(
             <FlatList
